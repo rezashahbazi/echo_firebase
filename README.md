@@ -1,6 +1,6 @@
 govendor init
-govendor fetch  github.com/labstack/echo
-govendor fetch  github.com/labstack/echo/middleware
+govendor fetch 	github.com/labstack/echo
+govendor fetch 	github.com/labstack/echo/middleware
 govendor fetch firebase.google.com/go
 
 export GO111MODULE=on
